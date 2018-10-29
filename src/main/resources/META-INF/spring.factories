@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.yibo.starter.PersonServiceAutoConfiguration,\
+com.yibo.starter.DruidAutoConfiguration
