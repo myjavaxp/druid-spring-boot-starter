@@ -1,4 +1,6 @@
-package com.yibo.starter;
+package com.yibo.starter.entity;
+
+import com.yibo.starter.PersonProperties;
 
 import java.util.StringJoiner;
 

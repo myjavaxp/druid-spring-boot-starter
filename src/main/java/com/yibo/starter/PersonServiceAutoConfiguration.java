@@ -1,5 +1,6 @@
 package com.yibo.starter;
 
+import com.yibo.starter.entity.Person;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
